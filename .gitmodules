@@ -1,9 +1,0 @@
-[submodule "lib/qunit"]
-	path = lib/qunit
-	url = git://github.com/jquery/qunit.git
-[submodule "lib/sinon"]
-	path = lib/sinon
-	url = git://github.com/cjohansen/Sinon.JS.git
-[submodule "lib/sinon-qunit"]
-	path = lib/sinon-qunit
-	url = git://github.com/cjohansen/sinon-qunit.git
